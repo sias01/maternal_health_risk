@@ -1,4 +1,11 @@
-This model is used to predict the health risk of pregnant women.
+# **AIM**
+To predict the health risk of pregnant women.
+
+DATASET LINK: https://archive.ics.uci.edu/dataset/863/maternal+health+risk
+
+
+
+
 It takes in 6 input parameters, namely: AGE, SYSTOLIC BP, DIASTOLIC BP, BS, BODY TEMPERATURE and HEART RATE and predicts the HEALTH RISK.
 
 The output is classified into 3 types based on severity: LOW RISK, MID RISK and HIGH RISK.
