@@ -2,7 +2,10 @@
 To predict the health risk of pregnant women.
 
 # **DATASET**
-DATASET LINK: https://archive.ics.uci.edu/dataset/863/maternal+health+risk
+Link to the dataset: https://archive.ics.uci.edu/dataset/863/maternal+health+risk
+There are 7 columns: Age, Systolic Blood Pressure, Diastolic Blood Pressure, Blood Sugar Level, Body Temperature, Heart Rate and Health Risk.
+<img width="362" alt="image" src="https://github.com/sias01/maternal_health_risk/assets/92619272/77b963d9-28c3-4c0e-b10e-4fe310f59363">
+
 
 
 It takes in 6 input parameters, namely: AGE, SYSTOLIC BP, DIASTOLIC BP, BS, BODY TEMPERATURE and HEART RATE and predicts the HEALTH RISK.
